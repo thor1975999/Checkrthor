@@ -19,8 +19,8 @@ approved_users = {}
 USER_DATA_FILE = "users.json"
 
 # Global variables for bot token and admin ID
-TELEGRAM_TOKEN = None
-ADMIN_CHAT_ID = None
+TELEGRAM_TOKEN = 7216203077:AAFzoENt4Pg3_jqY01TD7oW4u-5yJ7Ii-9Q
+ADMIN_CHAT_ID = -1002502590992
 
 # Function to install Python packages
 def install_packages():
